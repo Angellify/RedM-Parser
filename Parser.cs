@@ -1,15 +1,5 @@
 using System.ComponentModel;
-using System.IO;
-using System.Linq;
-using System.Runtime.CompilerServices;
-using System.Security.Cryptography;
-using System.Text.RegularExpressions;
-using System.Threading.Channels;
-using System.Windows.Forms;
-using Microsoft.VisualBasic.Logging;
 using ParserLibrary;
-using System.Configuration;
-using RedMParser;
 using RedMParser.Properties;
 
 namespace RDRPParser

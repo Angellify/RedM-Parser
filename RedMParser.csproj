@@ -16,10 +16,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\ParserLibrary\ParserLibrary.csproj" />
-  </ItemGroup>
-
-  <ItemGroup>
     <Compile Update="DefaultSettings.Designer.cs">
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
       <AutoGen>True</AutoGen>
