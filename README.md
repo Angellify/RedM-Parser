@@ -15,6 +15,9 @@ Ready for use or compilation after reviewing the source code.
 Contributions and feedback from the community are highly encouraged as I myself won't be updating this anytime soon.
 
 # Usage:
+To use the chat parser, simply clone the repository and build/**publish** (https://learn.microsoft.com/en-us/dotnet/core/tutorials/publishing-with-visual-studio?pivots=dotnet-8-0) the project yourself or run the RedMParser.exe from the build folder. Feel free to modify and customize it according to your needs, and don't forget to share your improvements with the community by submitting pull requests.
+
+# Compiling
 To use the chat parser, simply clone the repository and build the project yourself or run the RedMParser.exe from the build folder. Feel free to modify and customize it according to your needs, and don't forget to share your improvements with the community by submitting pull requests.
 
 # License:
