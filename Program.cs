@@ -1,4 +1,6 @@
-namespace RDRPParser
+using RDRPParser;
+
+namespace RedMParser
 {
     internal static class Program
     {

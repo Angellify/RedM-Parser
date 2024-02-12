@@ -22,18 +22,15 @@ namespace RDRPParser
             set { savePath.Text = value; }
         }
 
-
         public Parser()
         {
             InitializeComponent();
             HideInfo();
 
             Settings.Default.DefaultLogPath = PathClass.GetInitialPath(redmPath);
-            redmPath = Settings.Default.DefaultSavePath;
-            logsSavePath = Settings.Default.DefaultLogPath;
-
+            redmPath = Settings.Default.DefaultLogPath;
+            logsSavePath = Settings.Default.DefaultSavePath;
         }
-
 
 
         private void OnSearchClick(object sender, EventArgs e)
